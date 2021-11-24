@@ -1,0 +1,19 @@
+.taskList {
+  margin: 1rem;
+  border: 1px dotted skyblue;
+  padding: 1rem;
+}
+
+.addTask {
+  margin-top: 1rem;
+  padding: .8rem 1rem;
+  font-size: 1.2rem;
+  background: white;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.addTask:hover {
+  cursor: pointer;
+  background: lightblue;
+}
