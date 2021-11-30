@@ -1,0 +1,21 @@
+.notFound {
+  display: flex;
+  flex-direction: column;
+}
+
+.notFoundText {
+  font-size: 1.8rem;
+  color: grey;
+  margin-bottom: 2rem;
+}
+
+.notFoundLink {
+  border: 1px solid skyblue;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: black;
+}
+
+.notFoundLink:hover {
+  cursor: pointer;
+}
