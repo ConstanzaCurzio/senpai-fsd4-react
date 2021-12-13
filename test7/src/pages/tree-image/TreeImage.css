@@ -1,0 +1,29 @@
+.treeImageContainer {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px dotted skyblue;
+  padding: 1rem;
+  width: max-content;
+}
+
+.treeImage {
+  width: 15rem;
+}
+
+.showHideButton {
+  width: max-content;
+  margin-bottom: 1rem;
+  padding: .8rem 1rem;
+  font-size: 1.2rem;
+  background: white;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.showHideButton:hover {
+  cursor: pointer;
+  background: lightblue;
+}
