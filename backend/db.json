@@ -1,0 +1,34 @@
+{
+  "users": [
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Ir al cine 🎥"
+    },
+    {
+      "id": 2,
+      "name": "Pasear al perro 🐕"
+    },
+    {
+      "id": 3,
+      "name": "Compra frutas"
+    },
+    {
+      "id": 4,
+      "name": "Aprender React"
+    },
+    {
+      "id": 5,
+      "name": "Salir a correr"
+    },
+    {
+      "name": "Trabajar en proyecto",
+      "id": 5
+    },
+    {
+      "id": 7,
+      "name": "Cocinar cena"
+    }
+  ]
+}
